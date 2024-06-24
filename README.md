@@ -1,1 +1,1 @@
-# medical-data-visualisations
+# Medical Data Visualisations
